@@ -726,7 +726,7 @@
 | **Descripción** | Descargar un juego. Al no tener la licencia de dichos juegos, la descarga será un archivo .jpg de la caratula del juego en cuestión             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Difícil         |
+| **Complejidad** | Fácil         |
 | **Entrega**     | v3             |
 
 
@@ -742,9 +742,9 @@
 | **R83**     | **Foto de perfil**         |
 | --------------: | :------------------- |
 | **Descripción** | Los usuarios podrán subir/modificar su foto de perfil             |
-| **Prioridad**   | Opcional           |
+| **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Difícil         |
+| **Complejidad** | Fácil         |
 | **Entrega**     | v3             |
 
 
@@ -851,8 +851,8 @@
 | (**R78**) Gestión de juegos/videojuegos | Importante | Funcional | Media | v2 | 
 | (**R79**) Chat de amigos en tiempo real | Opcional | Funcional | Difícil | v3 | 
 | (**R80**) Pago a través de PayPal | Importante | Funcional | Difícil | v3 | 
-| (**R81**) Descargar un juego | Importante | Funcional | Difícil | v3 | 
+| (**R81**) Descargar un juego | Importante | Funcional | Fácil | v3 | 
 | (**R82**) Tráiler de juegos | Opcional | Funcional | Media | v3 | 
-| (**R83**) Foto de perfil | Opcional | Funcional | Difícil | v3 | 
+| (**R83**) Foto de perfil | Importante | Funcional | Fácil | v3 | 
 | (**R84**) Mi Biblioteca | Importante | Funcional | Difícil | v3 | 
 | (**R85**) Mi Perfil | Importante | Funcional | Media | v2 | 
